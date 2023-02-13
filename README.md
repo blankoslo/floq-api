@@ -1,2 +1,2 @@
 # floq-api
-PostgREST on Heroku
+PostgREST deployed to Google Cloud Run and kept up to date bu GitHub dependabot 

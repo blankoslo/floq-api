@@ -1,1 +1,0 @@
-web: PGRST_SERVER_PORT=${PORT} ./postgrest-${POSTGREST_VER}
